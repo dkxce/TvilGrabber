@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+<name>TvilGrabber</name>
+<createdby>TvilGrabber</createdby>
+<Folder><name><![CDATA[Адыгея (Объектов: 11)]]></name>
+<Placemark>
+<styleUrl>#cat9</styleUrl>
+<name><![CDATA["Даховская слобода" Туристический комплекс [706350]]]></name>
+<description><![CDATA["Даховская слобода" Туристический комплекс [706350]
+ID: 706350
+Address: Майкоп, улица Мира 26А
+Cat: 9
+Url: https://tvil.ru/city/all/hotels/706350/
+Grabbed: 13.01.2022 by Tvil Grabber]]></description>
+<Point><coordinates>40.204483,44.244183,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#cat5</styleUrl>
+<name><![CDATA["Денница" База отдыха [851061]]]></name>
+<description><![CDATA["Денница" База отдыха [851061]
+ID: 851061
+Address: Майкоп, Речная улица 17
+Cat: 5
+Url: https://tvil.ru/city/all/hotels/851061/
+Grabbed: 13.01.2022 by Tvil Grabber]]></description>
+<Point><coordinates>40.205992,44.235385,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#cat5</styleUrl>
+<name><![CDATA["Ахаус" База отдыха [1227411]]]></name>
+<description><![CDATA["Ахаус" База отдыха [1227411]
+ID: 1227411
+Address: станица Даховская, Майкоп, Восточная улица 2
+Cat: 5
+Url: https://tvil.ru/city/all/hotels/1227411/
+Grabbed: 13.01.2022 by Tvil Grabber]]></description>
+<Point><coordinates>40.207721,44.231449,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#cat2</styleUrl>
+<name><![CDATA["Майкоп" Гостиница [854840]]]></name>
+<description><![CDATA["Майкоп" Гостиница [854840]
+ID: 854840
+Address: Майкоп, Краснооктябрьская улица 17
+Cat: 2
+Url: https://tvil.ru/city/all/hotels/854840/
+Grabbed: 13.01.2022 by Tvil Grabber]]></description>
+<Point><coordinates>40.103999,44.605516,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#cat12</styleUrl>
+<name><![CDATA[Апартаменты на Береговой [1215580]]]></name>
+<description><![CDATA[Апартаменты на Береговой [1215580]
+ID: 1215580
+Address: Новая Адыгея, Береговая улица 3к19, 36 кв.м., 
+Note: аренда посуточно
+Cat: 12
+Url: https://tvil.ru/city/all/hotels/1215580/
+Grabbed: 13.01.2022 by Tvil Grabber]]></description>
+<Point><coordinates>38.943801,45.02075,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#cat13</styleUrl>
+<name><![CDATA[Сдается домик [402056]]]></name>
+<description><![CDATA[Сдается домик [402056]
+ID: 402056
+Address: Гузерипль, Лесная 8, 60 кв.м., 
+Note: аренда посуточно
+Cat: 13
+Url: https://tvil.ru/city/all/hotels/402056/
+Grabbed: 13.01.2022 by Tvil Grabber]]></description>
+<Point><coordinates>40.134177,43.995542,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#cat10</styleUrl>
+<name><![CDATA[Комфортная студия Мега Икеа парк [1204126]]]></name>
+<description><![CDATA[Комфортная студия Мега Икеа парк [1204126]
+ID: 1204126
+Address: Новая Адыгея, Бжегокайская улица 25/8, 25 кв.м., 
+Note: аренда посуточно
+Cat: 10
+Url: https://tvil.ru/city/all/hotels/1204126/
+Grabbed: 13.01.2022 by Tvil Grabber]]></description>
+<Point><coordinates>38.922583,45.016971,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#cat1</styleUrl>
+<name><![CDATA[1-комнатная квартира [1218167]]]></name>
+<description><![CDATA[1-комнатная квартира [1218167]
+ID: 1218167
+Address: Новая Адыгея, Береговая  2/3, 42 кв.м., 
+Note: аренда посуточно
+Cat: 1
+Url: https://tvil.ru/city/all/hotels/1218167/
+Grabbed: 13.01.2022 by Tvil Grabber]]></description>
+<Point><coordinates>38.942929,45.020514,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#cat1</styleUrl>
+<name><![CDATA[1-комнатная квартира [1218184]]]></name>
+<description><![CDATA[1-комнатная квартира [1218184]
+ID: 1218184
+Address: Новая Адыгея, Бжегокайская 25/1, 33 кв.м., 
+Note: аренда посуточно
+Cat: 1
+Url: https://tvil.ru/city/all/hotels/1218184/
+Grabbed: 13.01.2022 by Tvil Grabber]]></description>
+<Point><coordinates>38.921364,45.019318,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#cat12</styleUrl>
+<name><![CDATA[Стильные Апартаменты в ЖК Тургеневский [1218952]]]></name>
+<description><![CDATA[Стильные Апартаменты в ЖК Тургеневский [1218952]
+ID: 1218952
+Address: Новая Адыгея, улица Тургеневское Шоссе 25/7О, 40 кв.м., 
+Note: аренда посуточно
+Cat: 12
+Url: https://tvil.ru/city/all/hotels/1218952/
+Grabbed: 13.01.2022 by Tvil Grabber]]></description>
+<Point><coordinates>38.935312,45.019316,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<styleUrl>#cat1</styleUrl>
+<name><![CDATA[1-комнатная квартира [1221221]]]></name>
+<description><![CDATA[1-комнатная квартира [1221221]
+ID: 1221221
+Address: Новая Адыгея, Майкопская улица 40, 30 кв.м., 
+Note: аренда посуточно
+Cat: 1
+Url: https://tvil.ru/city/all/hotels/1221221/
+Grabbed: 13.01.2022 by Tvil Grabber]]></description>
+<Point><coordinates>38.941699,44.997885,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Style id="cat0"><IconStyle><Icon><href>images/cat0.png</href></Icon></IconStyle></Style>
+<Style id="cat1"><IconStyle><Icon><href>images/cat1.png</href></Icon></IconStyle></Style>
+<Style id="cat2"><IconStyle><Icon><href>images/cat2.png</href></Icon></IconStyle></Style>
+<Style id="cat3"><IconStyle><Icon><href>images/cat3.png</href></Icon></IconStyle></Style>
+<Style id="cat4"><IconStyle><Icon><href>images/cat4.png</href></Icon></IconStyle></Style>
+<Style id="cat5"><IconStyle><Icon><href>images/cat5.png</href></Icon></IconStyle></Style>
+<Style id="cat6"><IconStyle><Icon><href>images/cat6.png</href></Icon></IconStyle></Style>
+<Style id="cat7"><IconStyle><Icon><href>images/cat7.png</href></Icon></IconStyle></Style>
+<Style id="cat8"><IconStyle><Icon><href>images/cat8.png</href></Icon></IconStyle></Style>
+<Style id="cat9"><IconStyle><Icon><href>images/cat9.png</href></Icon></IconStyle></Style>
+<Style id="cat10"><IconStyle><Icon><href>images/cat10.png</href></Icon></IconStyle></Style>
+<Style id="cat11"><IconStyle><Icon><href>images/cat11.png</href></Icon></IconStyle></Style>
+<Style id="cat12"><IconStyle><Icon><href>images/cat12.png</href></Icon></IconStyle></Style>
+<Style id="cat13"><IconStyle><Icon><href>images/cat13.png</href></Icon></IconStyle></Style>
+<Style id="cat14"><IconStyle><Icon><href>images/cat14.png</href></Icon></IconStyle></Style>
+</Document>
+</kml>

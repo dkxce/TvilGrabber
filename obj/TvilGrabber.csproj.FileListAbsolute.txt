@@ -1,0 +1,5 @@
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220113H\PLUGIN_TvilGrabber_[Sources]_20220113H\bin\Debug\TvilGrabber.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220113H\PLUGIN_TvilGrabber_[Sources]_20220113H\bin\Debug\TvilGrabber.pdb
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220113H\PLUGIN_TvilGrabber_[Sources]_20220113H\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220113H\PLUGIN_TvilGrabber_[Sources]_20220113H\obj\Debug\TvilGrabber.exe
+D:\PROJECTS\Планирование\20XX Template\Soft (Win+Android)\MY KMZ KML TOOLS\KMZRebuilder+Viewer\_SOURCES\KMZTools_[Sources]_20220113H\PLUGIN_TvilGrabber_[Sources]_20220113H\obj\Debug\TvilGrabber.pdb
